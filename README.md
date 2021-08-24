@@ -2,6 +2,15 @@
 
 > A Vue.js project
 
+Library
+Bootstarp Vue
+
+Routing
+Vue Router
+
+Unit Testing
+Karma Mocha Chai with headless chrome
+
 ## Build Setup
 
 ``` bash
