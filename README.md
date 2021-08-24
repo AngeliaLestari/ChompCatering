@@ -3,7 +3,7 @@
 > A Vue.js project
 
 Library:
-Bootstarp Vue
+Bootstrap Vue
 
 Routing:
 Vue Router
