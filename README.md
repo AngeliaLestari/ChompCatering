@@ -11,5 +11,5 @@ Vue Router
 
 Unit Test
 ----------
-Karma, Mocha, Chai
+Karma, Mocha, Chai,
 Browser: Headless Chrome
