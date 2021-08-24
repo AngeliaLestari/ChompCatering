@@ -2,13 +2,13 @@
 
 > A Vue.js project
 
-Library
+Library:
 Bootstarp Vue
 
-Routing
+Routing:
 Vue Router
 
-Unit Testing
+Unit Testing:
 Karma Mocha Chai with headless chrome
 
 ## Build Setup
